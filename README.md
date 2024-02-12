@@ -11,7 +11,7 @@ Download the script and execute it in a Python-capable environment.
 
 ### Execution
 
-usage : python3 DNA_TAG.py
+usage: python3 DNA_TAG.py
 
 ### Customization
 Modify the num_tags variable to alter the number of unique sequences generated, allowing for flexibility in various research scenarios.
@@ -19,4 +19,4 @@ Modify the num_tags variable to alter the number of unique sequences generated, 
 ###
 Contact and Support
 For inquiries, suggestions, or support, please contact 
-mulbagl.a@northeastern.edu
+mulbagal.a@northeastern.edu
